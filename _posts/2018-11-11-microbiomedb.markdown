@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  MicrobiomeDB
-description: Analyze microbiome data (16S or metagenomes) using free web-based tools.
+description: MicrobiomeDB.org is a data-mining platform for interrogating microbiome experiments.  The site provides a suite of data mining and visualization tools that can be applied to your own data or to thousands of curated 16S and metagenomic samples hosted no the site.
 date:   2018-11-11 15:01:35 +0300
 image:  '/images/microbiomedb.png'
 tags:   [web-based, microbiome, dataviz]

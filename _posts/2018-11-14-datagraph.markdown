@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Datagraph
+title:  Datagraph
 description: DataGraph is a software application for scientists, analysts, and students who love working with data. DataGraph allows you to import, organize, compute, and visualize data while making custom, publication-quality graphics, figures, and even animations. Go well beyond the capabilities of a spreadsheet without the need to learn a coding language.
 date:   2018-11-14 15:01:35 +0300
 image:  '/images/datagraph.png'
