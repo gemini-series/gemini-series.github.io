@@ -10,8 +10,8 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Steve Kolinsky
-  title: Hey, I’m Steve Kolinsky!
-  description: I am a Senior Software Engineer. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.
+  title: GEMINI
+  description: A series of one-day, hands-on, workshops geared toward software and tools for advanced data analysis in GEnomics, MIcrobiology, aNd Immunology (GEMINI).
   image: '/images/gemini.png'
   avatar: '/images/gemini.png'
 
