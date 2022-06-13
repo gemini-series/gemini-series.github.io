@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Gemini Series
+title: GEMINI Series
 logo: # You can add own logo. For example '/images/gemini.png'.
 description: A series of day-long workshops covering best practices, software, methods for Genomics, Microbiology, and Immunology (GEMINI)
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -9,11 +9,11 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Steve Kolinsky
+  name: Team Gemini
   title: GEMINI
   description: A series of one-day, hands-on, workshops geared toward software and tools for advanced data analysis in GEnomics, MIcrobiology, aNd Immunology (GEMINI).
   image: '/images/gemini.png'
-  avatar: '/images/gemini.png'
+  avatar: '/images/gemini-avatar.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
@@ -65,7 +65,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 5
+paginate: 12
 paginate_path: "/page/:num"
 
 # Pages Path
