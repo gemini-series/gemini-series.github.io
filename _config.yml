@@ -12,8 +12,8 @@ author:
   name: Steve Kolinsky
   title: Hey, I’m Steve Kolinsky!
   description: I am a Senior Software Engineer. My passion lies in Full stack enterprise application development which I approach with an entrepreneurial mindset.
-  image: '/images/01.jpg'
-  avatar: '/images/01-1.jpg'
+  image: '/images/gemini.png'
+  avatar: '/images/gemini.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
