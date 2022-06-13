@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Bracia
+title: Gemini Series
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Bracia is a simple personal blog theme for Jekyll.
+description: A series of day-long workshops covering best practices, software, methods for Genomics, Microbiology, and Immunology (GEMINI)
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
