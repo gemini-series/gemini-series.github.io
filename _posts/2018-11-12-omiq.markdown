@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Omiq
-description: OMIQ is a modern cytometry analysis platform that bridges the world of machine learning and analytical pipelines with that of classical manual analysis. It allows researchers to complete their entire workflow in one software, going from raw data to statistical significance, using their own expertise and familiar tools seamlessly blended with dozens of cutting-edge computational methods and visualizations to unlock deeper insights from data.
+description: OMIQ is a modern cytometry analysis platform that combines machine learning and analytical pipelines with classical manual analysis. It allows researchers to complete their entire workflow in one software, going from raw data to statistical significance, using their own expertise and familiar tools seamlessly blended with dozens of cutting-edge computational methods and visualizations.
 date:   2018-11-12 15:01:35 +0300
 image:  '/images/omiq.png'
 tags:   [point-and-click, single cell, cytometry]

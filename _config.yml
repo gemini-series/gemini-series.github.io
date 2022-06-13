@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Gemini Series
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: # You can add own logo. For example '/images/gemini.png'.
 description: A series of day-long workshops covering best practices, software, methods for Genomics, Microbiology, and Immunology (GEMINI)
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
