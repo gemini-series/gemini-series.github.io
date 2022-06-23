@@ -2,7 +2,7 @@
 layout: post
 title:  Git + GitHub + Visual Studio Code
 description: Learn the basics of version control, set-up and maintain a github repository using Visual Studio Code, and build your own static website using using github.io
-date:   2018-11-08 15:01:35 +0300
+date:   2022-04-01 15:01:35 +0300
 image:  '/images/vscode.png'
 tags:   [command-line, github, open-source]
 ---

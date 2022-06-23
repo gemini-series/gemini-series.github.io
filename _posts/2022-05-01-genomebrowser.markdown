@@ -2,7 +2,7 @@
 layout: post
 title:  UCSC Genome Browser
 description: The UCSC Genome Browser is an online and downloadable genome browser hosted by the University of California, Santa Cruz. It is an interactive website offering access to genome sequence data from a variety of vertebrate and invertebrate species and major model organisms, integrated with a large collection of aligned annotations.
-date:   2018-11-09 15:01:35 +0300
+date:   2022-05-01 15:01:35 +0300
 image:  '/images/genomebrowse.png'
 tags:   [web-based]
 ---

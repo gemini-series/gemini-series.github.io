@@ -2,7 +2,7 @@
 layout: post
 title:  From R to Illustrator
 description: Learn to move seemlessly from your R scripts to Illustrator to make publication quality figures.
-date:   2018-11-10 15:01:35 +0300
+date:   2022-06-01 15:01:35 +0300
 image:  '/images/illustrator.png'
 tags:   [R, Illustrator, making figures]
 ---
