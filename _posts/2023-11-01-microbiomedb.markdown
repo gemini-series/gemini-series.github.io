@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  OMIQ
-description: OMIQ is a modern cytometry analysis platform that combines machine learning and analytical pipelines with classical manual analysis. It allows researchers to complete their entire workflow in one software, going from raw data to statistical significance, using their own expertise and familiar tools seamlessly blended with dozens of cutting-edge computational methods and visualizations.
-date:   2022-09-01 15:01:35 +0300
-image:  '/images/omiq.png'
-tags:   [web-based, point-and-click, cytometry, web-based]
+title:  MicrobiomeDB
+description: MicrobiomeDB.org is a data-mining platform for interrogating microbiome experiments.  The site provides a suite of data mining and visualization tools that can be applied to your own data or to thousands of curated 16S and metagenomic samples hosted no the site.
+date:   2023-11-01 15:01:35 +0300
+image:  '/images/microbiomedb.png'
+tags:   [web-based, point-and-click, microbiome, metagenomics]
 ---
 Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
 
-![Rest]({{site.baseurl}}/images/07-1.jpg)
-*Photo by [Roberto Nickson](https://unsplash.com/@rpnickson) on [Unsplash](https://unsplash.com/)*
+![Rest]({{site.baseurl}}/images/12.jpg)
+*Photo by [Josh Hild](https://unsplash.com/photos/igLQW_yY9oo) on [Unsplash](https://unsplash.com/)*
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
 
@@ -17,8 +17,8 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
 
-![California]({{site.baseurl}}/images/07-2.jpg)
-*Photo by [Alex Kotliarskyi](https://unsplash.com/photos/ourQHRTE2IM) on [Unsplash](https://unsplash.com/)*
+![Rest]({{site.baseurl}}/images/05.jpg)
+*Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop) on [Unsplash](https://unsplash.com/)*
 
 Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
 

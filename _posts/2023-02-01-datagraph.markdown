@@ -2,9 +2,9 @@
 layout: post
 title:  Datagraph
 description: DataGraph is a software application for scientists, analysts, and students who love working with data. DataGraph allows you to import, organize, compute, and visualize data while making custom, publication-quality graphics, figures, and even animations. Go well beyond the capabilities of a spreadsheet without the need to learn a coding language.
-date:   2022-08-01 15:01:35 +0300
+date:   2023-02-01 15:01:35 +0300
 image:  '/images/datagraph.png'
-tags:   [point-and-click, plotting, dataviz]
+tags:   [point-and-click, dataviz]
 ---
 
 Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
