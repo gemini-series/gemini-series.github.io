@@ -8,7 +8,7 @@ layout: default
   <div class="row">
     <div class="col col-12">
     {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts reversed %}
         {% include article-content.html %}
       {% endfor %}
     {% endif %}
