@@ -17,11 +17,7 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion-logo-github", label: Github, link: "https://github.com"}
+- {icon: "ion-logo-github", label: Github, link: "https://github.com/gemini-series/gemini-series.github.io"}
 
 # Example of adding a new link to the author section - {icon: "ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 # Other icons can be found at https://ionicons.com/v4/
