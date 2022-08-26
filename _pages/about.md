@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/03.jpg'
+image:
 ---
 
 GEMINI is a monthly series of day-long workshops geared toward helping researchers access and use software tools for the analysis of large and complex datasets in **GE**nomics, **MI**crobiology a**N**d **I**mmunology.  Each workshop in the series focuses on a single piece of software, involves hands-on active learning, and is free and open to the UPenn biomedical research community, including graduate students, postdocs, faculty and staff.
