@@ -7,18 +7,20 @@ image:  '/images/omiq.png'
 tags:   [web-based, point-and-click, cytometry, web-based]
 ---
 
-# Registration
+## Registration
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.  Registration is required and seating is limited.  **[Register using this form](https://forms.gle/ysSGNCCXYTC9VWgW6)!**
+**[Register using this form](https://forms.gle/ysSGNCCXYTC9VWgW6)!**
 
-# Overview
+The workshop is free to UPenn graduate students, postdocs, faculty, and staff.  Registration is required and seating is limited.
+
+## Overview
 
 Omiq allows researchers to complete their entire workflow in one software, going from raw data to statistical significance, using their own expertise and familiar tools seamlessly blended with dozens of cutting-edge computational methods and visualizations.
 
-# Instructor
+## About your instructor
 
 This workshop will be taught by [Geoff Kraker](https://www.linkedin.com/in/geoff-kraker-6018b830), Senior Application Developer for Omiq.
 
-# Workshop details
+## Workshop details
 
-Check back soon for mmore details on the workshop agenda.
+Check back soon for more details on the workshop agenda.
