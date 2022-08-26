@@ -4,7 +4,7 @@ title:  OMIQ
 description: Learn a modern cytometry analysis platform that combines machine learning and analytical pipelines with classical manual analysis.
 date:   2022-09-28 15:01:35 +0300
 image:  '/images/omiq.png'
-tags:   [web-based, point-and-click, cytometry, web-based]
+tags:   [web-based, point-and-click, cytometry]
 ---
 
 ## Registration
