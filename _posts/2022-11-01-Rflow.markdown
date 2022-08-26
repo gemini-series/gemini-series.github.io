@@ -1,8 +1,0 @@
----
-layout: post
-title:  Flow cytometry analysis in R/bioconductor
-description: Tired of 'eye-balling' your flow data and subjectively setting gating strategies?  In this workshop you'll learn to use rigorous statistical methods analyze your flow data in a way that is transparent and reproducible.
-date:   2022-11-01 15:01:35 +0300
-image:  '/images/omiq.png'
-tags:   [R/Bioconductor, cytometry]
----
