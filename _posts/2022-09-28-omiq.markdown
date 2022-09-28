@@ -25,5 +25,9 @@ This workshop will be taught by [Geoff Kraker](https://www.linkedin.com/in/geoff
 
 All workshop attendees should visit [app.omiq.ai](app.omiq.a) and create an account by clicking on "Sign Up", and then entering an academic email address and a password. From there, you'll be asked to validate your email and then be able to log in to your trial account. The trial period runs for 3 weeks by default, but you can always reach out to the OMIQ folks to request and extension if you need more time to try out OMIQ with your data.
 
+## What do you need to do?
+
+Not much really!  Just sign-up for the free OMIQ account as indicated above, and be sure to bring your laptop and charger to the workshop.
+
 ## Workshop data
 Throughout the workshop you'll be using a dataset kindly provided by [Sokratis Apostolidis](https://scholar.google.com/citations?user=omj4tIQAAAAJ) that comes from [this 2021 Nature Medicine paper](www.nature.com/articles/s41591-021-01507-2) describing the SARS-CoV-2 vaccine response in individuals with multiple sclerosis receiving treatment with anti-CD20 to deplete B-cells (ocrelizumab or rituximab).
