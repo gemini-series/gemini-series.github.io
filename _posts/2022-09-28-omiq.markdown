@@ -23,7 +23,7 @@ This workshop will be taught by [Geoff Kraker](https://www.linkedin.com/in/geoff
 
 ## Workshop details
 
-All workshop attendees should visit [app.omiq.ai](app.omiq.a) and create an account by clicking on "Sign Up", and then entering an academic email address and a password. From there, you'll be asked to validate your email and then be able to log in to your trial account. The trial period runs for 3 weeks by default, but you can always reach out to the OMIQ folks to request and extension if you need more time to try out OMIQ with your data.
+All workshop attendees should visit [app.omiq.ai](app.omiq.a) and create an account by clicking on "Sign Up", and then entering an academic email address and a password. From there, you'll be asked to validate your email and then be able to log in to your trial account. The trial period runs for 3 weeks by default, but you can always reach out to the OMIQ folks to request an extension if you need more time to try out OMIQ with your data.
 
 ## What do you need to do?
 
