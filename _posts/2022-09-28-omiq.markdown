@@ -35,4 +35,8 @@ Throughout the workshop you'll be using a dataset kindly provided by [Sokratis A
 
 ## Useful references
 
-* [Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry data](https://doi.org/10.1002/cyto.a.23030)
+* Check out [this blog post](cytekbio.com/blogs...tudies
+www.nature.com/articles/s41590-021-01006-z) for a nice discussion of batch effects in flow cytometry.
+* [Teaching 'big data' analysis to young immunologists](https://doi.org/10.1038/ni.3250) - a good review article for anyone starting to wrangle with high-dimensional flow cytometry data.
+* [Comparison of clustering methods for high-dimensional single-cell flow and mass cytometry data](https://doi.org/10.1002/cyto.a.23030) - the title says it all.  A good overview of how different clustering methods and how they stack up when compared head-to-head on the same data.  This article makes the case that the speed and overall performance of FlowSOM make it well-suited for interactive, exploratory analysis of large, high-dimensional data sets on a standard laptop or desktop computer.
+* [FlowSOM: Using self-organizing maps for visualization and interpretation of cytometry data](https://doi.org/10.1002/cyto.a.22625) - the original publication describing FlowSOM for flow cytometric data.
