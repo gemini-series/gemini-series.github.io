@@ -9,7 +9,9 @@ tags:   [point-and-click, dataviz]
 
 ## Registration
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.  Registration is required and seating is limited.
+The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+
+**[Please register here](https://docs.google.com/forms/d/e/1FAIpQLSfTR6kOQEe4CrNb_cSO2jMiIBVDw8nzwZjXIt_a4d3zAeVRfQ/viewform)**.  Registration is required and seating is limited.
 
 ## Overview
 
@@ -20,7 +22,7 @@ DataGraph is a macOS application that is like a Swiss army knife for data!  Data
 * create data analysis pipelines
 * apply curve fitting and drawing functions to your data
 
-## About your instructors
+## About your instructor
 
 Dr. Pamela Schultz, CEO of Visual Data Tools, Inc.
 
