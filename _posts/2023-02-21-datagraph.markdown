@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Datagraph
+title:  DataGraph
 description: A 'no-code' solution to making beautiful graphs from complex data.
 date:   2023-02-21 15:01:35 +0300
 image:  '/images/datagraph.png'
@@ -15,7 +15,7 @@ The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 
-DataGraph is a macOS application that is like a Swiss army knife for data!  Datagraph provies a 'no code' visual design environment for publication-quality graphics, allowing anyone to quickly and easily:
+DataGraph is a macOS application that is like a Swiss army knife for data!  DataGraph provides a 'no code' visual design environment for publication-quality graphics, allowing anyone to quickly and easily:
 
 * build custom graphs
 * carry out real-time data exploration
