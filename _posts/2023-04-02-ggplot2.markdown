@@ -1,0 +1,23 @@
+---
+layout: post
+title:  ggplot2
+description: Making graphs with ggplot2 and the R programming language.
+date:   2023-04-04 15:01:35 +0300
+image:  '/images/ggplot_hex.png'
+tags:   [R/Bioconductor, dataviz]
+---
+
+## Registration
+
+The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+
+**[Please register here](forms.gle/q4KyFFzDMzX9WpTU6)**.  Registration is required and seating is limited.
+
+## Overview
+
+The first part of the day will be devoted to learning about tidyverse and other methods for preparing data for plotting, as well as ggplot basics. After lunch, we will dive into more sophisticated options for plotting data, including interactive figures. Prerequisites for this course are basic familiarity with R and working installations of R, Rstudio and the tidyverse.
+
+## About your instructor
+
+Dr. Matei Ionita - Senior Data Analyst at I3H
+
