@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Working in the Genome Browser
+description: Viewing and mining mulit-omic data in the context of a reference genome
+date:   2023-05-17 15:01:35 +0300
+image:  '/images/gbrowse.png'
+tags:   [web-based, point-and-click, dataviz]
+---
+
+## Registration
+
+The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+
+Details of the event are still being finalized, but the workshop will take place over two days (Wed, May 17 and Thur, May 18th).  Registration is required for both days, and seating is limited.
+
+## Overview
+
+Check back soon for more details on the agenda for this workshop.
+
+## About your instructors
+
+Bob Khun, PhD -
+

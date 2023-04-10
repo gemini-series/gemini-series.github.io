@@ -21,3 +21,7 @@ The first part of the day will be devoted to learning about tidyverse and other 
 
 Dr. Matei Ionita - Senior Data Analyst at I3H
 
+## Workshop resources
+
+Two scripts were used during the workshop: one covering [basic aspects of ggplot2](), and another for more [advanced topics]().
+
