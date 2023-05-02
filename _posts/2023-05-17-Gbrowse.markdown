@@ -24,8 +24,8 @@ Bob Khun, PhD -
 ## Agenda
 
 **DAY 1**
-**9:00 - 10:30 **
-*Intro to the UCSC Genome Browser – features and navigation.*
+
+**9:00 - 10:30: Intro to the UCSC Genome Browser – features and navigation.**
 
 A tour of the basic parts of the UCSC Genome Browser
 * General overview of the Browser, what it is, history
@@ -43,8 +43,7 @@ A tour of the basic parts of the UCSC Genome Browser
 
 **10-30 - 10:45: Coffee break**
 
-**10:45 - 12:00**
-*Genome Browser data*
+**10:45 - 12:00: Genome Browser data**
 
 * Publications / gene interactions
 * Data – genesets, annotation, 1000 Genomes, CRISPR guides, pathways, epigenomics
@@ -66,8 +65,7 @@ A tour of the basic parts of the UCSC Genome Browser
 
 **12:00 - 1:00: Lunch**
 
-**1:00 - 2:00 **
-*Still more features*
+**1:00 - 2:00: Still more features**
 
 * More data types – barChart, interact, Hi-C, lollipop
 * Custom tracks and track hubs – uploading and displaying your own data
@@ -83,8 +81,8 @@ A tour of the basic parts of the UCSC Genome Browser
 * Examples of comparative genomics, changes between assemblies, evolution
 
 **DAY 2**
-**9:00 -10:30**
-*Getting more out of the Browser + Clinical context*
+
+**9:00 - 10:30: Getting more out of the Browser + Clinical context**
 
 * Naming of genomes – hg19 vs hg38 + T2T
 * Advantages and drawbacks of using the various assemblies
@@ -100,8 +98,7 @@ A tour of the basic parts of the UCSC Genome Browser
 
 **10-30 - 10:45: Coffee break**
 
-**10:45 - 12:00**
-*Deeper dive into Recommended Track Sets*
+**10:45 - 12:00: Deeper dive into Recommended Track Sets**
 
 * CNVs and SNVs – benign and pathogenic
 * Individual tracks and their usefulness in variant interpretation
@@ -114,8 +111,7 @@ A tour of the basic parts of the UCSC Genome Browser
 
 **12:00 - 1:00: Lunch**
 
-**1:00 - 4:00**
-*Cementing your knowledge:  Advanced problem session to work on example problems*
+**1:00 - 4:00: Cementing your knowledge - Advanced problem session to work on example problems**
 
 * Problem set for hands-on reinforcement of how to use the Browser
 * Participant-directed review of features and data (Q&A)
