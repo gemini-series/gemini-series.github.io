@@ -23,3 +23,8 @@ Allie Greenplate, PhD - Allie is the Director of Strategic Alliance and Operatio
 
 Mark Painter, PhD - Mark joined the Wherry lab as a post-doc in 2021 where he studies the human immune response following SARS-CoV-2 vaccination and infection. He is also interested in the immune response to infection and vaccination in other settings, including in cancer immunotherapy.
 
+## Workshop resources
+
+* [Adobe Illustrator worksheet](https://gemini-series.netlify.app/code/Illustrator_worksheets.ai) - This is the worksheet used in the first half of the workshop to familiarize users with key features of Adobe Illustrator for rapidly designing schematics for scientific figures.
+* [R script](https://gemini-series.netlify.app/code/Gemini_Workshop_20230425.R) - This script served as the basis for the coding portion of the workshop and contains great example code for Mark's beautiful ggplot graphics (including stats!).  You can use this code as a starting point for your own 'plug-and-play' ggplots.
+* [csv file 1.0](https://gemini-series.netlify.app/code/Gemini.1.0.csv), [csv file 1.1](https://gemini-series.netlify.app/code/Gemini.1.1.csv), [csv file 2.0](https://gemini-series.netlify.app/code/Gemini.2.0.csv), [csv file 2.1](https://gemini-series.netlify.app/code/Gemini.2.1.csv) - all the data inputs used in the R script above.

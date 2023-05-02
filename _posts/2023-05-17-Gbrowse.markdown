@@ -15,9 +15,110 @@ Details of the event are still being finalized, but the workshop will take place
 
 ## Overview
 
-Check back soon for more details on the agenda for this workshop.
+This workshop will be split into two consecutive days, with the first day focusing on key features of the Genome Browser, and the second day devoted to use of this resource for mining clinical data.
 
 ## About your instructors
 
 Bob Khun, PhD -
+
+## Agenda
+
+**DAY 1**
+**9:00 - 10:30 **
+*Intro to the UCSC Genome Browser – features and navigation.*
+
+A tour of the basic parts of the UCSC Genome Browser
+•	General overview of the Browser, what it is, history
+•	Variants – benign and pathogenic, large and small (CNV, SNV)
+•	Display configuration
+•	Track settings
+•	Exporting Browser .pdf images for publication
+•	Sample searches: Gene of interest, regions of interest
+•	HGVS – jumping directly to genes, codons
+•	Navigation:  drag-and-zoom, drag-reorder tracks, switching genome assemblies and organisms via homology, highlighting
+•	Keeping track of your thinking by saving and sharing sessions
+•	Resources for education
+•	Using the Browser in teaching genetics and molecular biology
+•	YouTube channel
+
+**10-30 - 10:45: Coffee break**
+
+**10:45 - 12:00**
+*Genome Browser data*
+
+•	Publications / gene interactions
+•	Data – genesets, annotation, 1000 Genomes, CRISPR guides, pathways, epigenomics
+•	Variants – CNVs and SNPs, benign and pathogenic
+•	Understanding various SNP tracks – composite tracks
+•	Finding more information about a track or track item
+•	Table Browser and extracting data
+•	Getting gene sequences
+•	Finding the table that goes with your track
+•	Subsets / Filters
+•	Intersections
+•	Custom tracks - uploading and displaying your own data in the Browser
+•	Data types/formats – BED files (basic annotation), wiggle (RNA-seq)
+•	Configuration
+•	How to get DNA for the region you are viewing
+•	BLAT and isPCR (using the DNA)
+•	Comparative genomics – multispecies alignments
+•	SARS-CoV2 browser
+
+**12:00 - 1:00: Lunch**
+
+**1:00 - 2:00 **
+*Still more features*
+
+•	More data types – barChart, interact, Hi-C, lollipop
+•	Custom tracks and track hubs – uploading and displaying your own data
+•	Sequencing data:  coverage (BAM files), variant calls (VCF), RNA-seq (wiggle)
+•	Public track hubs
+•	Track collections – co-configuring multiple wiggle tracks
+
+2:00 - 4:00: Cementing your knowledge:  Working through a problem set + Q&A
+
+•	Problem set for hands-on reinforcement of how to use the Browser
+•	Participant-directed review of features and data (Q&A)
+•	One-on-one consultation/troubleshooting
+•	Examples of comparative genomics, changes between assemblies, evolution
+
+**DAY 2**
+**9:00 -10:30**
+*Getting more out of the Browser + Clinical context*
+
+•	Naming of genomes – hg19 vs hg38 + T2T
+•	Advantages and drawbacks of using the various assemblies
+•	Recommended Track Sets – quick display of most valuable datasets for interpreting variants large and small (CNVs, SNVs)
+•	DECIPHER, DGV
+•	GnomAD, OMIM, GTEx expression data, UniProt
+•	Table Browser – extracting coordinates from gene names
+•	Multi-Region mode
+•	Exon-only display
+•	Viewing discontinuous regions (e.g., pathways)
+•	Alternate haplotypes in human genome assemblies
+•	Data Integrator – combining data from multiple tables
+
+**10-30 - 10:45: Coffee break**
+
+**10:45 - 12:00**
+*Deeper dive into Recommended Track Sets*
+
+•	CNVs and SNVs – benign and pathogenic
+•	Individual tracks and their usefulness in variant interpretation
+•	What has been seen before and what was said about it
+•	 What data can be used to think about a novel variant
+•	Table Browser example – combining trios
+•	Custom Tracks – pgSNP and VCF formats
+•	Variant Annotation Integrator
+•	Predicting the effects of variants
+
+**12:00 - 1:00: Lunch**
+
+**1:00 - 4:00**
+*Cementing your knowledge:  Advanced problem session to work on example problems*
+
+•	Problem set for hands-on reinforcement of how to use the Browser
+•	Participant-directed review of features and data (Q&A)
+•	Concurrent:  One-on-one consultation/troubleshooting
+
 
