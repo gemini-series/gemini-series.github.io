@@ -19,7 +19,12 @@ This workshop will be split into two consecutive days, with the first day focusi
 
 ## About your instructors
 
-Bob Khun, PhD -
+Robert Kuhn received his PhD in biochemistry and molecular biology at the University of California Santa Barbara, where he studied the centromeres of yeast.  Following a postdoctoral fellowship studying photoreceptor genes in plants at UC Berkeley, he taught biochemistry, genetics and molecular biology at the University of California Santa Cruz.
+
+He joined the UCSC Genome Browser project in 2003, retiring as Associate Director in 2022.  The Genome Browser is a widely used visualization tool giving access to the genomes of human, model organisms and more than one hundred other animals.  Dr. Kuhn's responsibilities included influencing the growth and interface of the Browser, identifying important datasets for inclusion into the Browser and enabling researchers worldwide through in-person workshops and seminars as well as the YouTube channel.  He has now taught more 300 presentations (https://bit.ly/kuhnTalks).  He has a particular interest in the support of clinical geneticists via online databases and tools for interpreting data.
+
+Dr Kuhn is now operating as Robert Kuhn Consulting, where he continues to offer Browser trainings, bioinformatics consultation and educational materials.
+
 
 ## Agenda
 
