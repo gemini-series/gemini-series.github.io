@@ -17,7 +17,7 @@ Details of the event are still being finalized, but the workshop will take place
 
 This workshop will be split into two consecutive days, with the first day focusing on key features of the Genome Browser, and the second day devoted to use of this resource for mining clinical data.
 
-## About your instructors
+## About your instructor
 
 Robert Kuhn received his PhD in biochemistry and molecular biology at the University of California Santa Barbara, where he studied the centromeres of yeast.  Following a postdoctoral fellowship studying photoreceptor genes in plants at UC Berkeley, he taught biochemistry, genetics and molecular biology at the University of California Santa Cruz.
 
