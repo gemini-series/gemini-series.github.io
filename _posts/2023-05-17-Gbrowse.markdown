@@ -3,7 +3,7 @@ layout: post
 title:  Working in the Genome Browser
 description: Viewing and mining mulit-omic data in the context of a reference genome
 date:   2023-05-17 15:01:35 +0300
-image:  '/images/gbrowse.png'
+image:  '/images/gbrowse2.jpg'
 tags:   [web-based, point-and-click, dataviz]
 ---
 
