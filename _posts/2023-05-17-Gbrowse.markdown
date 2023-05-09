@@ -15,6 +15,8 @@ Details of the event are still being finalized, but the workshop will take place
 
 ## Overview
 
+[The UCSC Genome Browser](https://genome.ucsc.edu) is an omics data consolidator, graphical viewer, and general bioinformatics resource for the genomics community.  With the ever-increasing amounts of data being generated each year, tools like the UCSC Genome Browser are increasingly playing a key step in data analysis and interpretation. The Genome Browser resource services over 1.4 million users per year, and offers over 6000 tracks on the two latest human GRCh assemblies alone, GRCh38/hg38 and GRCh37/hg19. There are also over 200 assemblies available on the Genome Browser. The resource supports over 30 data formats such as bed/bigBed, wig/bigWig, VCF and GTF/GFF, thus allowing users to not only display their own annotations, but also to visualize data from a large number of sources in a single location.
+
 This workshop will be split into two consecutive days, with the first day focusing on key features of the Genome Browser, and the second day devoted to use of this resource for mining clinical data.
 
 ## About your instructor
