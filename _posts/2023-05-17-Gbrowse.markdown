@@ -7,11 +7,11 @@ image:  '/images/gbrowse2.jpg'
 tags:   [web-based, point-and-click, dataviz]
 ---
 
-## Registration
+## Registration and location
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
-Details of the event are still being finalized, but the workshop will take place over two days (Wed, May 17 and Thur, May 18th).  Registration is required for both days, and seating is limited.
+The workshop will take place over two days (Wed, May 17 and Thur, May 18th).  Registration is required for both days, and seating is limited.
 
 ## Overview
 
