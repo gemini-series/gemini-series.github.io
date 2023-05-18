@@ -30,6 +30,9 @@ Dr Kuhn is now operating as Robert Kuhn Consulting, where he continues to offer 
 
 ## Agenda
 
+<details>
+  <summary>Day 1</summary>
+
 **DAY 1**
 
 **9:00 - 10:30: Intro to the UCSC Genome Browser – features and navigation.**
@@ -86,6 +89,8 @@ A tour of the basic parts of the UCSC Genome Browser
 * Participant-directed review of features and data (Q&A)
 * One-on-one consultation/troubleshooting
 * Examples of comparative genomics, changes between assemblies, evolution
+
+</details>
 
 **DAY 2**
 
