@@ -124,4 +124,24 @@ A tour of the basic parts of the UCSC Genome Browser
 * Participant-directed review of features and data (Q&A)
 * Concurrent:  One-on-one consultation/troubleshooting
 
+## Workshop resources
+
+* [2023 NAR paper](https://academic.oup.com/nar/article/51/D1/D1188/6845436?login=false) - this is the most current publication describing the UCSC genome browser features.
+* [Recommended tracks paper](https://onlinelibrary.wiley.com/doi/10.1002/humu.24335) - this paper describes a set of recommended tracks for interpreting clincial variant data
+* [Small file for loading SNV custom track](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/hg38.snvs.txt)
+* [Small file with several custom tracks in various formats](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/ctExamples.txt)
+* [Simple example gene list](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/genelist)
+* [File for bar chart](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/barChart.txt)
+* [Hands-on exercise](https://gemini-series.netlify.app/code/practicalPhilly2023.pdf) - this is the series of exercises that we began working through in the afternoon on day 1 of the workshop.  This exercise uses this [example bam track file](https://users.soe.ucsc.edu/~kuhn/workshops/bamDir/bamTracks.txt).
+
+
+## Recordings
+
+[Day 1 - morning](https://pennmedicine.zoom.us/rec/share/aPdoYinbK1moLJI9bMpd-L0lcCU2MNZUis9MXdrprlFsPKA3xsmsA9591kQ8vuPz.SR_5pHWrnIYPvUa5?startTime=1684327497000)
+Passcode: R9GN%d83
+
+[Day 1 - afternoon](https://pennmedicine.zoom.us/rec/share/aPdoYinbK1moLJI9bMpd-L0lcCU2MNZUis9MXdrprlFsPKA3xsmsA9591kQ8vuPz.SR_5pHWrnIYPvUa5?startTime=1684347238000)
+Passcode: R9GN%d83
+
+
 
