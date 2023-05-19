@@ -23,16 +23,14 @@ This workshop will be split into two consecutive days, with the first day focusi
 
 Robert Kuhn received his PhD in biochemistry and molecular biology at the University of California Santa Barbara, where he studied the centromeres of yeast.  Following a postdoctoral fellowship studying photoreceptor genes in plants at UC Berkeley, he taught biochemistry, genetics and molecular biology at the University of California Santa Cruz.
 
-He joined the UCSC Genome Browser project in 2003, retiring as Associate Director in 2022.  The Genome Browser is a widely used visualization tool giving access to the genomes of human, model organisms and more than one hundred other animals.  Dr. Kuhn's responsibilities included influencing the growth and interface of the Browser, identifying important datasets for inclusion into the Browser and enabling researchers worldwide through in-person workshops and seminars as well as the YouTube channel.  He has now taught more 300 presentations (https://bit.ly/kuhnTalks).  He has a particular interest in the support of clinical geneticists via online databases and tools for interpreting data.
+He joined the UCSC Genome Browser project in 2003, retiring as Associate Director in 2022.  The Genome Browser is a widely used visualization tool giving access to the genomes of human, model organisms and more than one hundred other animals.  Dr. Kuhn's responsibilities included influencing the growth and interface of the Browser, identifying important datasets for inclusion into the Browser and enabling researchers worldwide through in-person workshops and seminars as well as the YouTube channel.  He has now taught [more 300 presentations](https://bit.ly/kuhnTalks).  He has a particular interest in the support of clinical geneticists via online databases and tools for interpreting data.
 
 Dr Kuhn is now operating as Robert Kuhn Consulting, where he continues to offer Browser trainings, bioinformatics consultation and educational materials.
 
 
 ## Agenda
 
-<details>
-  <summary>Day 1</summary>
-
+**DAY 1**
 
 **9:00 - 10:30: Intro to the UCSC Genome Browser – features and navigation.**
 
@@ -88,7 +86,6 @@ A tour of the basic parts of the UCSC Genome Browser
 * Participant-directed review of features and data (Q&A)
 * One-on-one consultation/troubleshooting
 * Examples of comparative genomics, changes between assemblies, evolution
-</details>
 
 **DAY 2**
 
@@ -130,7 +127,7 @@ A tour of the basic parts of the UCSC Genome Browser
 ## Workshop resources
 
 * [2023 NAR paper](https://academic.oup.com/nar/article/51/D1/D1188/6845436?login=false) - this is the most current publication describing the UCSC genome browser features.
-* [Recommended tracks paper](https://onlinelibrary.wiley.com/doi/10.1002/humu.24335) - this paper describes a set of recommended tracks for interpreting clincial variant data
+* [recommended tracks paper]() - this paper describes a set of recommended tracks for interpreting clincal variants.
 * [Small file for loading SNV custom track](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/hg38.snvs.txt)
 * [Small file with several custom tracks in various formats](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/ctExamples.txt)
 * [Simple example gene list](https://users.soe.ucsc.edu/~kuhn/workshops/philly2023/genelist)
@@ -145,6 +142,12 @@ Passcode: R9GN%d83
 
 [Day 1 - afternoon](https://pennmedicine.zoom.us/rec/share/aPdoYinbK1moLJI9bMpd-L0lcCU2MNZUis9MXdrprlFsPKA3xsmsA9591kQ8vuPz.SR_5pHWrnIYPvUa5?startTime=1684347238000)
 Passcode: R9GN%d83
+
+[Day 2 - morning](https://pennmedicine.zoom.us/rec/share/DIzQPmyDWefEO5cAuYWSgY8kjIKkVMQvTlv-IdChOxS_Cb7jpUWRLKwLKKTXrrBX.DIhJlk6XOUcsyPyM?startTime=1684413953000)
+Passcode: gKN^3&?!
+
+[Day 2 - afternoon](https://pennmedicine.zoom.us/rec/share/DIzQPmyDWefEO5cAuYWSgY8kjIKkVMQvTlv-IdChOxS_Cb7jpUWRLKwLKKTXrrBX.DIhJlk6XOUcsyPyM?startTime=1684433076000)
+Passcode: gKN^3&?!
 
 
 
