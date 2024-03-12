@@ -9,17 +9,17 @@ tags:   [R/Bioconductor, cytometry]
 
 ## Registration
 
-**[Register using this form](https://forms.gle/ysSGNCCXYTC9VWgW6)!**  If you already completed this form for one of the other flow cytometry workshops in the GEMINI Series, then you're good to go!
+**[Register using this form](https://forms.gle/txR2xq7gvGbGjmCD9)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.  Registration is required and seating is limited.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 
-FlowJo is an integrated environment for viewing and analyzing flow cytometric data.  In addition to gating and statistics, FlowJo has specialized analysis platforms for assays involving DNA/Cell Cycle, Kinetics, and Proliferation, among others. FlowJo’s sophisticated tools allow for generation of statistics, graphs, tables, web pages, and even movies. FlowJo integrates remote data hosting services (LIMS) and supports “cloud” deployment for excellent scaling of performance in a demanding.
+In this workshop, you'll learn to use the R programming language and the Bioconductor suite of software tools to carry out sophisticated analysis of flow data.  You'll learn how to more rigorously set gates, and automate the process of applying a gating strategy across even very large flow cytometric datasets.
 
 ## About your instructors
 
-This workshop will be taught by Wade Rogers, PhD, Adjunct Associate Professor in Pathology and Laboratory Medicine at UPenn, and Principal Consultant at [Still Pond Cytomics](https://spcytomics.com/); and Matei Ionita, PhD, Computational Consultant for Penn Cytomics.
+This workshop will be taught by Matei Ionita, PhD, Senior Data Analyst at I3H
 
 ## Workshop details
 

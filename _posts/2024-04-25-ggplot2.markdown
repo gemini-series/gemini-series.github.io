@@ -9,9 +9,9 @@ tags:   [R/Bioconductor, dataviz]
 
 ## Registration
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+**[Register using this form](https://forms.gle/1vdXpJsBnshLfnVn6)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
 
-**[Please register here](forms.gle/q4KyFFzDMzX9WpTU6)**.  Registration is required and seating is limited.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 
@@ -19,7 +19,7 @@ The first part of the day will be devoted to learning about tidyverse and other 
 
 ## About your instructor
 
-Dr. Matei Ionita - Senior Data Analyst at I3H
+This workshop will be taught by Matei Ionita, PhD, Senior Data Analyst at I3H
 
 ## Workshop resources
 

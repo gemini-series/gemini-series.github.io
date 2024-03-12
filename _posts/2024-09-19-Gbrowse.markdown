@@ -9,15 +9,13 @@ tags:   [web-based, point-and-click, dataviz]
 
 ## Registration and location
 
-The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
+**[Register using this form](https://forms.gle/XZHPeECMyKfvBDEc7)!**.  Registration is required, and seating is limited.
 
-The workshop will take place over two days (Wed, May 17 and Thur, May 18th).  Registration is required for both days, and seating is limited.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 
 [The UCSC Genome Browser](https://genome.ucsc.edu) is an omics data consolidator, graphical viewer, and general bioinformatics resource for the genomics community.  With the ever-increasing amounts of data being generated each year, tools like the UCSC Genome Browser are increasingly playing a key step in data analysis and interpretation. The Genome Browser resource services over 1.4 million users per year, and offers over 6000 tracks on the two latest human GRCh assemblies alone, GRCh38/hg38 and GRCh37/hg19. There are also over 200 assemblies available on the Genome Browser. The resource supports over 30 data formats such as bed/bigBed, wig/bigWig, VCF and GTF/GFF, thus allowing users to not only display their own annotations, but also to visualize data from a large number of sources in a single location.
-
-This workshop will be split into two consecutive days, with the first day focusing on key features of the Genome Browser, and the second day devoted to use of this resource for mining clinical data.
 
 ## About your instructor
 
@@ -29,8 +27,6 @@ Dr Kuhn is now operating as Robert Kuhn Consulting, where he continues to offer 
 
 
 ## Agenda
-
-**DAY 1**
 
 **9:00 - 10:30: Intro to the UCSC Genome Browser – features and navigation.**
 
@@ -86,43 +82,6 @@ A tour of the basic parts of the UCSC Genome Browser
 * Participant-directed review of features and data (Q&A)
 * One-on-one consultation/troubleshooting
 * Examples of comparative genomics, changes between assemblies, evolution
-
-**DAY 2**
-
-**9:00 - 10:30: Getting more out of the Browser + Clinical context**
-
-* Naming of genomes – hg19 vs hg38 + T2T
-* Advantages and drawbacks of using the various assemblies
-* Recommended Track Sets – quick display of most valuable datasets for interpreting variants large and small (CNVs, SNVs)
-* DECIPHER, DGV
-* GnomAD, OMIM, GTEx expression data, UniProt
-* Table Browser – extracting coordinates from gene names
-* Multi-Region mode
-* Exon-only display
-* Viewing discontinuous regions (e.g., pathways)
-* Alternate haplotypes in human genome assemblies
-* Data Integrator – combining data from multiple tables
-
-**10-30 - 10:45: Coffee break**
-
-**10:45 - 12:00: Deeper dive into Recommended Track Sets**
-
-* CNVs and SNVs – benign and pathogenic
-* Individual tracks and their usefulness in variant interpretation
-* What has been seen before and what was said about it
-* What data can be used to think about a novel variant
-* Table Browser example – combining trios
-* Custom Tracks – pgSNP and VCF formats
-* Variant Annotation Integrator
-* Predicting the effects of variants
-
-**12:00 - 1:00: Lunch**
-
-**1:00 - 4:00: Cementing your knowledge - Advanced problem session to work on example problems**
-
-* Problem set for hands-on reinforcement of how to use the Browser
-* Participant-directed review of features and data (Q&A)
-* Concurrent:  One-on-one consultation/troubleshooting
 
 ## Workshop resources
 

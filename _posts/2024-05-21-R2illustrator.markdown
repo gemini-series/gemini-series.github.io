@@ -9,9 +9,9 @@ tags:   [point-and-click, R/Bioconductor, dataviz]
 
 ## Registration
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+**[Register using this form](https://forms.gle/ivGQetcGvdmS7uxg6)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
 
-**[Please register here](forms.gle/q4KyFFzDMzX9WpTU6)**.  Registration is required and seating is limited.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 

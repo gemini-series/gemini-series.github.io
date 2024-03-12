@@ -9,9 +9,9 @@ tags:   [point-and-click, dataviz]
 
 ## Registration
 
-The workshop is free to UPenn graduate students, postdocs, faculty, and staff.
+**[Register using this form](https://forms.gle/XTcCmQma94aPkVrZ9)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
 
-**[Please register here](https://docs.google.com/forms/d/e/1FAIpQLSfTR6kOQEe4CrNb_cSO2jMiIBVDw8nzwZjXIt_a4d3zAeVRfQ/viewform)**.  Registration is required and seating is limited.
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
 ## Overview
 
