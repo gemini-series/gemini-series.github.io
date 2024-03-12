@@ -2,7 +2,7 @@
 layout: post
 title:  DataGraph
 description: A 'no-code' solution to making beautiful graphs from complex data.
-date:   2023-02-21 15:01:35 +0300
+date:   2024-04-18 15:01:35 +0300
 image:  '/images/datagraph.png'
 tags:   [point-and-click, dataviz]
 ---
