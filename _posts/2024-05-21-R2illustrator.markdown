@@ -2,7 +2,7 @@
 layout: post
 title:  From R to Illustrator and back again
 description: Making graphs with ggplot2 and the R programming language.
-date:   2024-05-25 15:01:35 +0300
+date:   2024-05-21 15:01:35 +0300
 image:  '/images/illustrator.png'
 tags:   [point-and-click, R/Bioconductor, dataviz]
 ---
