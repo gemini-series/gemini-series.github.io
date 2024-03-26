@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  From R to Illustrator and back again
-description: Making graphs with ggplot2 and the R programming language.
+description: Learn how to move seemlessly between R/Bioconductor and Illustrator, making it simple to update even very complex multi-panel figures as you update your analyses.
 date:   2024-05-22 15:01:35 +0300
 image:  '/images/illustrator.png'
 tags:   [point-and-click, R/Bioconductor, dataviz]
