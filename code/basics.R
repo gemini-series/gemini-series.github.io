@@ -7,15 +7,12 @@ library(tidyverse)
 df0 <- read.csv("tabular_data.csv") # base R function
 print(df0)
 
-
 df <- read_csv("tabular_data.csv") # function from readr, in tidyverse
 print(df)
 
 df
 
 names(df)
-
-
 
 
 ############# Basic plots ################
@@ -38,8 +35,7 @@ ggplot(df, aes(x=Age, y=Monocyte)) +
 # Multiple layers
 ggplot(df, aes(x=Age, y=Monocyte)) +
   geom_point() +
-  geom_density_2d() +
-  geom_line()
+  geom_density_2d()
 
 # Trend lines
 ggplot(df, aes(x=Age, y=Monocyte)) +
@@ -102,6 +98,9 @@ ggplot(df, aes(x=Age, y=Monocyte)) +
 ggplot(df, aes(x=Age, y=Monocyte, shape=Gender)) +
   geom_point() +
   geom_smooth(aes(color=Gender))
+
+?geom_point
+?geom_smooth
 
 ggplot(df, aes(x=Age, y=Monocyte, shape=Gender)) +
   geom_point() +
@@ -336,7 +335,8 @@ ggplot(df_status, aes(x=Age_Status, y=Fraction, fill=Age_Status)) +
 
 #### scales, again ####
 
-ggplot(df_status, aes(x=Age_Status, y=log10(Fraction), fill=Age_Status)) +
+ggplot(df_status %>% filter(grepl("T cell", Cell_Type)), 
+       aes(x=Age_Status, y=log10(Fraction), fill=Age_Status)) +
   geom_violin() +
   facet_wrap(~Cell_Type, scales="free_y")
 
@@ -378,6 +378,20 @@ p1 + ggtitle("Monocyte proportion by age") +
   theme(axis.text.x = element_text(angle=45))
 
 
+install.packages("ggthemes")
+
+library(ggthemes)
+
+p1 + ggtitle("Monocyte proportion by age") +
+  theme_excel()
+
+p1 + ggtitle("Monocyte proportion by age") +
+  theme_economist()
+
+p1 + ggtitle("Monocyte proportion by age") +
+  theme_stata()
+
+
 #### patchwork ####
 
 install.packages("patchwork")
@@ -405,7 +419,6 @@ for (i in c(1:3)) {
   cell_type <- cell_types[i]
   plist[[i]] <- ggplot(df, aes(x=Age, y=.data[[cell_type]])) +
     geom_point()
-  
 }
 
 plist[[1]] | plist[[2]] / plist[[3]]
@@ -419,7 +432,6 @@ for (i in c(1:3)) {
   # Completely equivalent statements
   values <- df %>% pull(cell_types[i])
   values <- pull(df, cell_types[i])
-  
   
   plist[[i]] <- ggplot(df, aes(x = Age, y = values )) +
     geom_point()
@@ -439,11 +451,11 @@ install.packages("leidenAlg")
 install.packages("ggnewscale")
 install.packages("pheatmap")
 install.packages("patchwork")
+install.packages("ggpubr")
 
 
 
 
-rm(list = ls())
 
 
 
