@@ -17,6 +17,14 @@ The workshop will take place in the [Holman Reading Room](https://www.library.up
 
 FlowJo is an integrated environment for viewing and analyzing flow cytometric data.  In addition to gating and statistics, FlowJo has specialized analysis platforms for assays involving DNA/Cell Cycle, Kinetics, and Proliferation, among others. FlowJo’s sophisticated tools allow for generation of statistics, graphs, tables, web pages, and even movies. FlowJo integrates remote data hosting services (LIMS) and supports “cloud” deployment for excellent scaling of performance in a demanding.
 
+## Getting set-up
+
+To start the workshop, there are a few things that you'll need to do.  We'll set aside some time at the start to help guide you through these steps, but you can also do them in advance.
+
+1. Make sure you have accepted my invitation for the BD Research Cloud.
+2. If you’re able, download and install the [plugin play bundle](https://www.flowjo.com/pluginplay_download)
+3. Get a little wild and download [x-shift](https://www.flowjo.com/exchange/#/plugin/profile?id=31) for clustering and [PeacoQC](https://www.flowjo.com/exchange/#/plugin/profile?id=59) for QC
+
 ## Agenda
 
 The morning will focus on basic/introductory topics in FlowJo, and the afternoon will delve into more advanced functionality via plugins.
