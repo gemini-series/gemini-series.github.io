@@ -9,7 +9,7 @@ tags:   [point-and-click, cytometry, single cell]
 
 ## Registration
 
-**[Register using this form](https://forms.gle/X6pVLiFjnGFhV2Aj6)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
+**[Register using this form](https://forms.gle/X6pVLiFjnGFhV2Aj6)!**.
 
 The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
 
@@ -17,10 +17,22 @@ The workshop will take place in the [Holman Reading Room](https://www.library.up
 
 FlowJo is an integrated environment for viewing and analyzing flow cytometric data.  In addition to gating and statistics, FlowJo has specialized analysis platforms for assays involving DNA/Cell Cycle, Kinetics, and Proliferation, among others. FlowJo’s sophisticated tools allow for generation of statistics, graphs, tables, web pages, and even movies. FlowJo integrates remote data hosting services (LIMS) and supports “cloud” deployment for excellent scaling of performance in a demanding.
 
+## Agenda
+
+The morning will focus on basic/introductory topics in FlowJo, and the afternoon will delve into more advanced functionality via plugins.
+
+| start | end   | topic                                                                           |
+|-------|-------|---------------------------------------------------------------------------------|
+| 9:00  | 9:30  | breakfast and set-up                                                            |
+| 9:30  | 11:30 | Introduction  + License support issues + Refresher / introductory training      |
+| 11:30 | 12:15 | Short discussion on “What is a plugin?” + Hands-on help with installing plugins |
+| 12:15 | 1:00  | Lunch break                                                                     |
+| 1:00  | 1:30  | Special considerations for spectral data                                        |
+| 1:30  | 3:30  | Hands-on exercise interspersed with slides and discussion                       |
+| 3:30  | 4:00  | Intro to using CellView Lens plugin to incorporate image data from the S8       |
+
 ## About your instructor
 
 This workshop will be taught by [John Quinn, PhD](https://www.linkedin.com/in/john-quinn-flowjo), Director, Science and Product Development at Becton Dickinson (BD) Bioinformatics.
 
-## Workshop details
 
-Check back soon for more details on the workshop agenda.
