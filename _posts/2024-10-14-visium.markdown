@@ -4,7 +4,7 @@ title:  Analysis of Visium HD data
 description: Learn to overlay 10X Visium HD gene expression data onto tissue sections to allow integration of spatial transcriptomics with tissue architecture and pathology.
 date:   2024-10-14 15:01:35 +0300
 image:  '/images/visium.png'
-tags:   [point-and-click, dataviz, single cell]
+tags:   [point-and-click, dataviz, single cell, microscopy]
 ---
 
 Stay tuned for more info on this date and agenda for this workshop!
