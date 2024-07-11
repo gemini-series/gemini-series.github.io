@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Analysis of microscopy data with Fiji
+description: Fiji is powerful and free image processing software — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
+date:   2024-11-12 15:01:35 +0300
+image:  '/images/fiji.png'
+tags:   [point-and-click, dataviz, microscopy]
+---
+
+Stay tuned for more info on this date and agenda for this workshop!
