@@ -29,14 +29,13 @@ In this workshop, you will be introduced to the single cell gene expression anal
 
 ## About your instructors
 
-Lisa Johnson is a Senior Scientist in Applied Bioinformatics at 10x Genomics, where she has been helping customers perform single cell data analyses for over 5 years. She has a PhD in Cellular, Molecular, Integrative Physiology from UC Davis.
+Lisa Johnson is a Senior Scientist in Applied Bioinformatics at 10x Genomics, where she has been helping customers perform single cell data analyses for over 4 years. She has a PhD in Cellular, Molecular, Integrative Physiology from UC Davis.
 
-<img src="https://gemini-series.github.io/images/lisa_johnson.jpeg">
+<img src="https://gemini-series.github.io/images/lisa_johnson.jpeg" width="500" height="600">
 
 Stephanie Hao is a Field Application Scientist based in New York City! Prior to being at 10x Genomics, she was at the New York Genome Center, working on multimodal single cell experiments including CITE-seq and Cell Hashing.
 
-<img src="https://gemini-series.github.io/images/stephanie_hao.jpeg">
-
+<img src="https://gemini-series.github.io/images/stephanie_hao.jpeg" width="500" height="600">
 
 
 ## Agenda
