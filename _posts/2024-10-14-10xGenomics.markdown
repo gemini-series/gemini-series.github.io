@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Analysis of single cell gene expression data
+description: Learn to plan and analyze a single cell RNA-seq expeirment using 10x Genomics technology
+date:   2024-10-14 15:01:35 +0300
+image:  '/images/scRNAseq.png'
+tags:   [point-and-click, dataviz, single cell]
+---
+
+## Registration and location
+
+**[Register using this form]()!**.  Registration is required, and seating is limited.
+
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
+
+## Overview
+
+In this workshop, you will be introduced to the single cell gene expression analysis journey. Analysis begins at experimental design. Together we will explore a set of neutrophil data starting with the 10x Cloud Analysis platform for raw data processing. From there, we will assess the data quality using the Cell Ranger web summary and then move into the Loupe Browser for our initial analysis. We will take what we have learned from the Loupe analysis into the community-developed tools space where we will further explore neutrophil cell development with an RNA velocity analysis. To wrap things up, each participant will have the opportunity to map out their own analysis journey moving forward by sitting down with members of the Applied Bioinformatics team from 10x Genomics and local onsite bioinformaticians.
+
+
+* Plan to bring a laptop to the event to participate, if you are attending the workshop in-person.
+* Sign up for a [10X Cloud Analysis account](https://www.10xgenomics.com/products/cloud-analysis).
+* Download [this tiny FASTQ](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/tiny_gex.zip) data set to the computer you will have with you at the workshop.
+* Download and install the [latest Loupe Browser](https://www.10xgenomics.com/support/software/loupe-browser/downloads) to the computer you will have with you at the workshop.
+* Download [this .cloupe file](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/cloupe_neutrophil_8.0.cloupe), which will be used during the workshop.
+* Download the cell marker file [BloodCell.csv](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/BloodCell.csv), which will be used to annotate cell types during the workshop.
+* Fill out the [pre-workshop survey](https://10xgenomics.co1.qualtrics.com/jfe/form/SV_3lBneX36k27wQ9E).
+
+
+## About your instructors
+
+Lisa Johnson is a Senior Scientist in Applied Bioinformatics at 10x Genomics, where she has been helping customers perform single cell data analyses for over 5 years. She has a PhD in Cellular, Molecular, Integrative Physiology from UC Davis.
+
+<img src="https://gemini-series.github.io/images/lisa_johnson.jpeg">
+
+Stephanie Hao is a Field Application Scientist based in New York City! Prior to being at 10x Genomics, she was at the New York Genome Center, working on multimodal single cell experiments including CITE-seq and Cell Hashing.
+
+<img src="https://gemini-series.github.io/images/stephanie_hao.jpeg">
+
+
+
+## Agenda
+
+You can see a full agenda with links to supplementary material **[HERE](https://www.10xgenomics.com/analysis-guides/workshop-single-cell-analysis)**
