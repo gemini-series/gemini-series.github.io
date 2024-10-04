@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Analysis of single cell gene expression data from the 10x platform
+description: Thinking of embarking on your first single cell RNA-seq experiment, but don't know where to start?  Learn to plan a successful single cell expeirment using 10x Genomics technology, and get hands-on experience using 'no code' tools to analyze scRNA-seq data.
+date:   2024-10-24 15:01:35 +0300
+image:  '/images/scRNAseq.png'
+tags:   [point-and-click, dataviz, single cell]
+---
+
+## Registration and location
+
+**[Register using this form](https://forms.gle/sAYLTDcFDrrNLxdS7)!**  Registration is required, and seating is limited.
+
+The workshop will take place in the [Hill Pavilion (Veterinary School)](https://facilities.upenn.edu/maps/locations/hill-pavilion-vernon-and-shirley), Room 130, which is located to your immediate left when you walk in the Vet School entrance located across the street from [Hamilton Walk](https://facilities.upenn.edu/maps/discover-penn/hamilton-walk), and is free to UPenn graduate students, postdocs, faculty, and staff.
+
+## Overview
+
+Thinking of embarking on your first single cell RNA-seq experiment, but don't know where to start?  Learn to plan a successful single cell expeirment using 10x Genomics technology, and get hands-on experience using 'no code' tools to analyze scRNA-seq data.  This workshop is targeted to researchers who are new to single cell experiments or who may be looking at single cell data for the first time and aren't sure where to start.  In this workshop, you will be introduced to the single cell gene expression analysis journey. Analysis begins at experimental design. Together we will explore a set of neutrophil data starting with the 10x Cloud Analysis platform for raw data processing. From there, we will assess the data quality using the Cell Ranger web summary and then move into the Loupe Browser for our initial analysis. We will take what we have learned from the Loupe analysis into the community-developed tools space where we will further explore neutrophil cell development with an RNA velocity analysis. To wrap things up, each participant will have the opportunity to map out their own analysis journey moving forward by sitting down with members of the Applied Bioinformatics team from 10x Genomics and local onsite bioinformaticians.
+
+
+* Plan to bring a laptop to the event to participate.
+* Sign up for a [10X Cloud Analysis account](https://www.10xgenomics.com/products/cloud-analysis).
+* Download [this tiny FASTQ](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/tiny_gex.zip) data set to the computer you will have with you at the workshop.
+* Download and install the [latest Loupe Browser](https://www.10xgenomics.com/support/software/loupe-browser/downloads) to the computer you will have with you at the workshop.
+* Download [this .cloupe file](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/cloupe_neutrophil_8.0.cloupe), which will be used during the workshop.
+* Download the cell marker file [BloodCell.csv](https://cf.10xgenomics.com/supp/cell-exp/workshop_tutorial/BloodCell.csv), which will be used to annotate cell types during the workshop.
+* Fill out the [pre-workshop survey](https://10xgenomics.co1.qualtrics.com/jfe/form/SV_3lBneX36k27wQ9E).
+
+
+## About your instructors
+
+Lisa Johnson is a Senior Scientist in Applied Bioinformatics at 10x Genomics, where she has been helping customers perform single cell data analyses for over 4 years. She has a PhD in Cellular, Molecular, Integrative Physiology from UC Davis.
+
+<img src="https://gemini-series.github.io/images/lisa_johnson.jpeg" width="500" height="600">
+
+Stephanie Hao is a Field Application Scientist based in New York City! Prior to being at 10x Genomics, she was at the New York Genome Center, working on multimodal single cell experiments including CITE-seq and Cell Hashing.
+
+<img src="https://gemini-series.github.io/images/stephanie_hao.jpeg" width="500" height="600">
+
+
+## Agenda
+
+You can see a full agenda with links to supplementary material **[HERE](https://www.10xgenomics.com/analysis-guides/workshop-single-cell-analysis)**
