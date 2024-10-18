@@ -7,4 +7,39 @@ image:  '/images/fiji.png'
 tags:   [point-and-click, dataviz, microscopy]
 ---
 
-Stay tuned for more info on this date and agenda for this workshop!
+## Registration
+
+**[Register using this form](forms.gle/q6M6xWY8hZj8n3YD8)!**.
+
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
+
+## Overview
+
+Fiji is the 'batteries included' version of the venerable ImageJ software.  It bundles together many popular and useful ImageJ plugins for image analysis into one installation, and automatically manages their dependencies and updating. Fiji is easy to use and install - in one-click, Fiji installs all of its plugins, features an automatic updater, and offers comprehensive documentation.
+
+## Getting set-up
+
+To participate in the workshop, please plan to bring your laptop with charging cord, and **[download and install Fiji sofrware](https://fiji.sc/#download)**.
+
+## Agenda
+
+The morning will focus on learning the essentials with Fiji, and the afternoon will delve into more advanced functionality via plugins.
+
+| start | end   | topic                                                                           |
+|-------|-------|---------------------------------------------------------------------------------|
+| 9:00  | 9:30  | Breakfast and setup                                                             |
+| 9:30  | 11:00 | Image data and Fiji essentials                                                  |
+| 11:00 | 11:15 | Short break                                                                     |
+| 11:15 | 12:15 | ROIs, Measurements, and Thresholding                                            |
+| 12:15 | 1:00  | Lunch break                                                                     |
+| 1:00  | 1:30  | The Analyze Particles plugin                                                    |
+| 1:30  | 2:30  | Filters and background subtraction                                              |
+| 2:30  | 2:45  | short break                                                                     |
+| 2:45  | 3:45  | Colocalization                                                                  |
+| 3:45  | 4:30  | Quick tour of useful plugins                                                    |
+
+## About your instructor
+
+This workshop will be taught by [Andrea Stout, PhD](https://cdb.med.upenn.edu/people/andrea-stout-ph-d/), Director of the CBD Microscopy Core at PSOM, and [AJ Lucy, PhD](https://www.linkedin.com/in/aj-lucy-8593a8272), a Research Specailist in the same core.
+
+
