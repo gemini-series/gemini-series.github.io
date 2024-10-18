@@ -38,8 +38,8 @@ The morning will focus on learning the essentials with Fiji, and the afternoon w
 | 2:45  | 3:45  | Colocalization                                                                  |
 | 3:45  | 4:30  | Quick tour of useful plugins                                                    |
 
-## About your instructor
+## About your instructors
 
-This workshop will be taught by [Andrea Stout, PhD](https://cdb.med.upenn.edu/people/andrea-stout-ph-d/), Director of the CBD Microscopy Core at PSOM, and [AJ Lucy, PhD](https://www.linkedin.com/in/aj-lucy-8593a8272), a Research Specailist in the same core.
+This workshop will be taught by [Andrea Stout, PhD](https://cdb.med.upenn.edu/people/andrea-stout-ph-d/).  Dr. Stout  started the CDB Microscopy Microscopy Core in 2006 and has been its director ever since.  Over the years she has taught hundreds of researchers how to use light microscopes and how to work with image data.  From 2017-2022 she directed and taught a course on quantitative image analysis (CAMB 7090) using Fiji. Dr Stout will be joined by [AJ Lucy, PhD](https://www.linkedin.com/in/aj-lucy-8593a8272), a Research Specailist who also works in the CDB microscopy core.
 
 
